@@ -1,0 +1,10 @@
+C:\Users\Blue Malgeran\Documents\Visual Studio 2017\Projects\Blue Dictionary\bin\Debug\Blue Dictionary.exe.config
+C:\Users\Blue Malgeran\Documents\Visual Studio 2017\Projects\Blue Dictionary\bin\Debug\Blue Dictionary.exe
+C:\Users\Blue Malgeran\Documents\Visual Studio 2017\Projects\Blue Dictionary\bin\Debug\Blue Dictionary.pdb
+C:\Users\Blue Malgeran\Documents\Visual Studio 2017\Projects\Blue Dictionary\obj\Debug\Blue Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Blue Malgeran\Documents\Visual Studio 2017\Projects\Blue Dictionary\obj\Debug\Blue_Dictionary.Form1.resources
+C:\Users\Blue Malgeran\Documents\Visual Studio 2017\Projects\Blue Dictionary\obj\Debug\Blue_Dictionary.Properties.Resources.resources
+C:\Users\Blue Malgeran\Documents\Visual Studio 2017\Projects\Blue Dictionary\obj\Debug\Blue Dictionary.csproj.GenerateResource.Cache
+C:\Users\Blue Malgeran\Documents\Visual Studio 2017\Projects\Blue Dictionary\obj\Debug\Blue Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Blue Malgeran\Documents\Visual Studio 2017\Projects\Blue Dictionary\obj\Debug\Blue Dictionary.exe
+C:\Users\Blue Malgeran\Documents\Visual Studio 2017\Projects\Blue Dictionary\obj\Debug\Blue Dictionary.pdb
