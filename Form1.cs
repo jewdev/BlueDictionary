@@ -39,8 +39,8 @@ namespace Blue_Dictionary
         }
         public void lookupTheSexyWORD()
         {
-            WebRequest.Create("apikey" + textBox1);
-            richTextBox1.Text = new System.Net.WebClient().DownloadString("apikey" + textBox1.Text);
+            WebRequest.Create("https://api.apithis.net/dictionary.php?define=" + textBox1);
+            richTextBox1.Text = new System.Net.WebClient().DownloadString("https://api.apithis.net/dictionary.php?define=" + textBox1.Text);
         }
     }
 }
